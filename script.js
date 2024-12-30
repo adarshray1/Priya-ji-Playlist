@@ -172,7 +172,7 @@ const music_list = [
         music : 'mp3/25.mp3'
     },
     {
-        cover: "https://iili.io/2eLGIj9.jpg",
+        cover: "https://iili.io/2kUFHvI.jpg",
         name : 'Dagabaaz Re',
         artist :'RFAK, and Shreya Ghoshal',
         music : 'mp3/26.mp3'
