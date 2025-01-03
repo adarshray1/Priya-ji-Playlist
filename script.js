@@ -101,7 +101,7 @@ const music_list = [
     },
     {
         cover: "https://iili.io/2eLdm1p.jpg",
-        name : 'Chal Tere Ishq Mein (Female)',
+        name : 'Chal Tere Ishq Mein',
         artist :'Neeti Mohan,Shehnaz Akhtar',
         music : 'mp3/14.mp3'
     },
@@ -172,7 +172,7 @@ const music_list = [
         music : 'mp3/25.mp3'
     },
     {
-        cover: "https://iili.io/2kUFHvI.jpg",
+        cover: "https://iili.io/2eLGIj9.jpg",
         name : 'Dagabaaz Re',
         artist :'RFAK, and Shreya Ghoshal',
         music : 'mp3/26.mp3'
@@ -183,7 +183,216 @@ const music_list = [
         artist :'Ankit Tiwari',
         music : 'mp3/27.mp3'
     },
-   
+    {
+        cover: "https://iili.io/2SQNnLX.jpg",
+        name : 'Aasan Nahin Yahan',
+        artist :'Arijit Singh',
+        music : 'mp3/28.mp3'
+    },
+    {
+        cover: "https://iili.io/2SQe5W7.jpg",
+        name : 'Baarish',
+        artist :'Gajendra Verma,Mohammed Irfan',
+        music : 'mp3/29.mp3'
+    },
+    {
+        cover: "https://iili.io/2SQ8I5J.jpg",
+        name : 'Baatein Ye Kabhi Na',
+        artist :' Arijit Singh',
+        music : 'mp3/30.mp3'
+    },
+    {
+        cover: "https://iili.io/2SQg8es.jpg",
+        name : 'Bulleya',
+        artist :'Amit Mishra',
+        music : 'mp3/31.mp3'
+    },
+    {
+        cover: "https://iili.io/2SQ6aql.jpg",
+        name : 'Dekhte Dekhte',
+        artist :'Atif Aslam',
+        music : 'mp3/32.mp3'
+    },
+    {
+        cover: "https://iili.io/2SQixNn.jpg",
+        name : 'Dil Diyan Gallan',
+        artist :'Atif Aslam',
+        music : 'mp3/33.mp3'
+    },
+    {
+        cover: "https://iili.io/2SQs4Lb.jpg",
+        name : 'Galliyan',
+        artist :'Ankit tiwari',
+        music : 'mp3/34.mp3'
+    },
+    {
+        cover: "https://iili.io/2SQZd5N.jpg",
+        name : 'Ishq Sufiana',
+        artist :'Kamal Khan',
+        music : 'mp3/35.mp3'
+    },
+    {
+        cover: "https://iili.io/2SQmjup.jpg",
+        name : 'Jab Se Tere Naina',
+        artist :'Shaan',
+        music : 'mp3/36.mp3'
+    },
+    {
+        cover: "https://iili.io/2SZHjgn.jpg",
+        name : 'Jashn-E-Bahaaraa',
+        artist :'A. R. Rahman,Javed Ali',
+        music : 'mp3/37.mp3'
+    },
+    {
+        cover: "https://iili.io/2SZKNd7.jpg",
+        name : 'Jee Le Zara',
+        artist :'Vishal Dadlan',
+        music : 'mp3/38.mp3'
+    },
+    {
+        cover: "https://iili.io/2SZkFHJ.jpg",
+        name : 'Jug Jug Jeeve',
+        artist :'Sachet Tandon',
+        music : 'mp3/39.mp3'
+    },
+    {
+        cover: "https://iili.io/2SZpLu4.jpg",
+        name : 'Kabhi Jo Baadal Barse',
+        artist :'Arijit Singh',
+        music : 'mp3/40.mp3'
+    },
+    {
+        cover: "https://iili.io/2St92gn.jpg",
+        name : 'Mat Aazma Re',
+        artist :'KK,Pritam Chakraborty',
+        music : 'mp3/41.mp3'
+    },
+    {
+        cover: "https://iili.io/2StJXxR.jpg",
+        name : 'Mere Rashke Qamar',
+        artist :'Nusrat Fateh Ali Khan',
+        music : 'mp3/42.mp3'
+    },
+    {
+        cover: "https://iili.io/2St273P.jpg",
+        name : 'Naam Hai Tera Tera',
+        artist :'Himesh Reshammiya',
+        music : 'mp3/43.mp3'
+    },
+    {
+        cover: "https://iili.io/2StFvEl.jpg",
+        name : 'Saaiyan',
+        artist :'Shahid Mallya',
+        music : 'mp3/44.mp3'
+    },
+    {
+        cover: "https://iili.io/2StfdH7.jpg",
+        name : 'Samjho Na',
+        artist :'Himesh Reshammiya',
+        music : 'mp3/45.mp3'
+    },
+    {
+        cover: "https://iili.io/2StCTRS.jpg",
+        name : 'Sanam Re',
+        artist :'Arijit Singh',
+        music : 'mp3/46.mp3'
+    },
+    {
+        cover: "https://iili.io/2StxMe2.jpg",
+        name : 'Saude Bazi',
+        artist :'Anupam Amod',
+        music : 'mp3/47.mp3'
+    },
+    {
+        cover: "https://iili.io/2StTo0u.jpg",
+        name : 'Sun Saathiyan',
+        artist :'Priya Saraiya,Divya Kumar ',
+        music : 'mp3/48.mp3'
+    },
+    {
+        cover: "https://iili.io/2SQNnLX.jpg",
+        name : 'Sunn Raha Hain Na',
+        artist :'Ankit Tiwari',
+        music : 'mp3/49.mp3'
+    },
+    {
+        cover: "https://iili.io/2StfdH7.jpg",
+        name : 'Tera Mera Milna',
+        artist :'Himesh Reshammiya,Shreya Ghosha',
+        music : 'mp3/50.mp3'
+    },
+    {
+        cover: "https://iili.io/2StfdH7.jpg",
+        name : 'Tera Surroor',
+        artist :'Himesh Reshammiya',
+        music : 'mp3/51.mp3'
+    },
+    {
+        cover: "https://iili.io/2StaOZv.jpg",
+        name : 'Tere Liye',
+        artist :'Atif Aslam,Shreya Ghosha',
+        music : 'mp3/52.mp3'
+    },
+    {
+        cover: "https://iili.io/2StEUp1.jpg",
+        name : 'Teri Jhuki Nazar',
+        artist :'Pritam Chakraborty,Shafqat Amanat Ali',
+        music : 'mp3/53.mp3'
+    },
+    {
+        cover: "https://iili.io/2StXoHQ.jpg",
+        name : 'Teri Yaadon Mein',
+        artist :'KK,Shreya Ghoshal',
+        music : 'mp3/54.mp3'
+    },
+    {
+        cover: "https://iili.io/2StNiCP.jpg",
+        name : 'Tu Hi Hai Aashiqui',
+        artist :'Arijit Singh,Palak Muchhal',
+        music : 'mp3/55.mp3'
+    },
+    {
+        cover: "https://freeimage.host/i/2Stikxe",
+        name : 'Tu Hi Haqeeqat',
+        artist :'Pritam Chakraborty,Javed Ali',
+        music : 'mp3/56.mp3'
+    },
+    {
+        cover: "https://iili.io/2StfdH7.jpg",
+        name : 'Tu Yaad Na Aaye ',
+        artist :'Himesh Reshammiya',
+        music : 'mp3/57.mp3'
+    },
+    {
+        cover: "https://iili.io/2StZqqg.jpg",
+        name : 'Tujhe Bhula diyan',
+        artist :'Mohit Chauhan, Shekhar Ravjiani',
+        music : 'mp3/58.mp3'
+    },
+    {
+        cover: "https://iili.io/2StbeYG.jpg",
+        name : 'tujhe main Pyaar Karu',
+        artist :'kailash khair',
+        music : 'mp3/59.mp3'
+    },
+    {
+        cover: "https://iili.io/2Styx7s.jpg",
+        name : 'Tum Hi Aana',
+        artist :'Jubin Nautiyal and Payal Dev',
+        music : 'mp3/60.mp3'
+    },
+    {
+        cover: "https://freeimage.host/i/2SD9DUF",
+        name : 'Zara Saa',
+        artist :'KK',
+        music : 'mp3/61.mp3'
+    },  
+    {
+        cover: "https://iili.io/2SDJa4I.jpg",
+        name : 'Dil Mein Ho Tum',
+        artist :'Armaan Malik, Bappi Lahiri',
+        music : 'mp3/62.mp3'
+    }, 
 ];
 
 loadTrack(track_index);
