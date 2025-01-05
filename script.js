@@ -393,6 +393,12 @@ const music_list = [
         artist :'Armaan Malik, Bappi Lahiri',
         music : 'mp3/62.mp3'
     }, 
+     {
+        cover: "https://iili.io/2UkJnvp.jpg",
+        name : 'Tu Hi Meri Shab Hai',
+        artist : 'KK,Pritam Chakraborty',
+        music : 'mp3/63.mp3'
+    },
 ];
 
 loadTrack(track_index);
